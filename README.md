@@ -1,4 +1,4 @@
-UNTreF - Algoritmos y Programación 1
+FI UBA - Algoritmos y Programación 2
 
 # Ejemplos: Arrays en C++
 
